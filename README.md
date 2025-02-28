@@ -49,32 +49,14 @@ Each project is placed in a separate folder for better organization. The project
    - A recommendation system suggesting clothing styles based on facial features.
    - Technologies: Python, OpenCV, Deep Learning, Recommendation Systems
 
-## 📜 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ml-projects.git
-   cd ml-projects
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Navigate to any project folder and run the respective script:
-   ```bash
-   python main.py
-   ```
 
-## 🌟 Live Projects
-Some of these projects are **live and deployed**. If you want to see them in action, check out:
-- **[Live Demo Link 1](#)** (Replace with actual link)
-- **[Live Demo Link 2](#)**
 
 ## 🏆 About Me
 I am a **data enthusiast** with a passion for **machine learning, AI, and automation**. My expertise includes **Python, Deep Learning, NLP, Computer Vision, and Data Analysis**.
 
 📧 Contact me at: **utkaleshnarendra@gmail.com**
 
-📌 Connect with me on [LinkedIn](#) (Replace with actual profile link)
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/utkalesh-narendra-58549b2a9/) 
 
 ---
 
